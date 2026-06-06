@@ -1,18 +1,10 @@
-LaBestia Performance Pack
+LaBestia, pacote produto vNext
 
-Abra index.html depois de extrair o ZIP.
-
-Optimizações aplicadas:
-- CSS e JavaScript separados para melhor cache e carregamento.
-- Imagens base64 externalizadas em assets/.
-- Modo leve para reduzir animações, sombras e efeitos pesados.
-- Placar ao vivo optimizado: actualiza apenas score, minuto e eventos, sem reconstruir a tela inteira a cada tick.
-- Cache de encaixe por jogador/posição para reduzir cálculos repetidos no draft.
-- Seleção de carta com renderização parcial, evitando renderAll desnecessário.
-- Suporte a prefers-reduced-motion.
-
-Ficheiros principais:
+Arquivos para subir no GitHub Pages:
 - index.html
-- assets/labestia.css
-- assets/labestia.js
-- assets/*.png
+- assets/ (CSS, JS e imagens)
+- data/ (bases em JSON: players, opponents, formations)
+- .nojekyll (opcional, recomendado)
+
+Observação: como as bases agora estão em data/*.json, abrir o index.html diretamente por file:// pode ser bloqueado pelo navegador. No GitHub Pages funciona normalmente. Para testar localmente, use um servidor simples, por exemplo:
+python -m http.server 8000

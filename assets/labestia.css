@@ -274,3 +274,12 @@ body.lite-mode .top-actions #liteBtn{background:var(--gold2);border-color:var(--
 @media (prefers-reduced-motion: reduce){
   *{animation:none!important;transition:none!important;scroll-behavior:auto!important}
 }
+
+
+/* --- Produto vNext: resumo épico, ranking, conquistas e home A América Cobra --- */
+.start-kicker{font-family:var(--mono);font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--gold);font-weight:1000;margin-bottom:8px}
+.home-actions{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end;align-items:center}.home-actions button{min-height:52px}.home-actions #homeContinueBtn{background:var(--gold);border-color:var(--gold);color:var(--blue960)}
+.summary-grid{grid-template-columns:repeat(3,1fr)}
+.ach-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.ach-card{border:1px solid var(--blue190);border-radius:14px;padding:12px;background:var(--blue070)}.ach-card b{display:block;font-family:var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--blue850);font-size:12px}.ach-card span{display:block;margin-top:5px;color:var(--blue900);font-size:12px;line-height:1.35}.ach-card.locked{opacity:.48;filter:saturate(.7)}.ach-card.earned{border-color:var(--gold);background:linear-gradient(135deg,rgba(240,204,107,.28),var(--white))}
+.ranking-list{display:grid;gap:8px}.ranking-row{display:grid;grid-template-columns:48px minmax(0,1fr);gap:8px;align-items:center;border:1px solid var(--blue190);border-radius:14px;background:var(--blue070);padding:10px}.ranking-row b{font-family:var(--mono);color:var(--blue850);font-size:18px}.ranking-row span{font-family:var(--mono);font-weight:1000;text-transform:uppercase;color:var(--blue960);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.ranking-row small{grid-column:2;color:var(--blue700);font-family:var(--mono);letter-spacing:.06em;text-transform:uppercase;font-size:10px}.top-actions #continueBtn{background:var(--gold);border-color:var(--gold)}
+@media(max-width:820px){.home-actions{justify-content:stretch}.home-actions button{width:100%}.summary-grid,.ach-grid{grid-template-columns:1fr}.ranking-row{grid-template-columns:38px minmax(0,1fr)}}

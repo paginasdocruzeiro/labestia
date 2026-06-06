@@ -1,0 +1,80 @@
+{
+  "4-3-3": [
+    "G",
+    "LD",
+    "ZG",
+    "ZG",
+    "LE",
+    "VOL",
+    "MEI",
+    "MEI",
+    "PD",
+    "ATA",
+    "PE"
+  ],
+  "4-4-2": [
+    "G",
+    "LD",
+    "ZG",
+    "ZG",
+    "LE",
+    "VOL",
+    "VOL",
+    "MEI",
+    "MEI",
+    "ATA",
+    "ATA"
+  ],
+  "4-2-3-1": [
+    "G",
+    "LD",
+    "ZG",
+    "ZG",
+    "LE",
+    "VOL",
+    "VOL",
+    "MEI",
+    "PD",
+    "PE",
+    "ATA"
+  ],
+  "3-5-2": [
+    "G",
+    "ZG",
+    "ZG",
+    "ZG",
+    "VOL",
+    "VOL",
+    "MD",
+    "ME",
+    "MEI",
+    "ATA",
+    "ATA"
+  ],
+  "4-2-4": [
+    "G",
+    "LD",
+    "ZG",
+    "ZG",
+    "LE",
+    "VOL",
+    "VOL",
+    "PD",
+    "PE",
+    "ATA",
+    "ATA"
+  ],
+  "4-5-1": [
+    "G",
+    "LD",
+    "ZG",
+    "ZG",
+    "LE",
+    "VOL",
+    "VOL",
+    "MD",
+    "ME",
+    "MEI",
+    "ATA"
+  ]
+}
