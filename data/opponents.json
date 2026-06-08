@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "1960-Campeão-Peñarol",
+    "year": 1960,
+    "club": "Peñarol",
+    "role": "campeão",
+    "rating": 94,
+    "players": "Alberto Spencer; Luis Cubilla; Néstor Gonçalves; William Martínez; Luis Maidana; Júpiter Crescio; Carlos Borges; Juan Hohberg; Roberto Scarone",
+    "comment": "Peñarol já nasce como potência continental; Olimpia competitivo, mas inferior em profundidade."
+  },
+  {
+    "id": "1960-Vice-Olimpia",
+    "year": 1960,
+    "club": "Olimpia",
+    "role": "vice",
+    "rating": 86,
+    "players": "Juan Vicente Lezcano; Hipólito Recalde; Eligio Echagüe; Silvio Parodi; Herminio Arias; Luis Doldán; Luis Gini; Juan Bautista Agüero",
+    "comment": "Peñarol já nasce como potência continental; Olimpia competitivo, mas inferior em profundidade."
+  },
+  {
+    "id": "1961-Campeão-Peñarol",
+    "year": 1961,
+    "club": "Peñarol",
+    "role": "campeão",
+    "rating": 95,
+    "players": "Alberto Spencer; Luis Cubilla; Néstor Gonçalves; William Martínez; Luis Maidana; Carlos Borges; Júpiter Crescio; Juan Hohberg; Roberto Scarone",
+    "comment": "Peñarol bicampeão com base histórica; Palmeiras tinha elenco muito forte."
+  },
+  {
+    "id": "1961-Vice-Palmeiras",
+    "year": 1961,
+    "club": "Palmeiras",
+    "role": "vice",
+    "rating": 90,
+    "players": "Djalma Santos; Julinho Botelho; Chinesinho; Zequinha; Valdemar Carabina; Djalma Dias; Nardo; Humberto Tozzi; Romeiro",
+    "comment": "Peñarol bicampeão com base histórica; Palmeiras tinha elenco muito forte."
+  },
+  {
+    "id": "1962-Campeão-Santos",
+    "year": 1962,
+    "club": "Santos",
+    "role": "campeão",
+    "rating": 99,
+    "players": "Pelé; Coutinho; Pepe; Zito; Gilmar; Mauro Ramos; Dorval; Mengálvio; Calvet; Dalmo",
+    "comment": "Santos de Pelé no auge; Peñarol ainda era uma das maiores forças do continente."
+  },
+  {
+    "id": "1962-Vice-Peñarol",
+    "year": 1962,
+    "club": "Peñarol",
+    "role": "vice",
+    "rating": 94,
+    "players": "Alberto Spencer; Luis Cubilla; Pedro Rocha; Néstor Gonçalves; William Martínez; Ladislao Mazurkiewicz; Júpiter Crescio; Julio César Abbadie; Juan Joya",
+    "comment": "Santos de Pelé no auge; Peñarol ainda era uma das maiores forças do continente."
+  },
+  {
+    "id": "1963-Campeão-Santos",
+    "year": 1963,
+    "club": "Santos",
+    "role": "campeão",
+    "rating": 99,
+    "players": "Pelé; Coutinho; Pepe; Zito; Gilmar; Mauro Ramos; Dorval; Mengálvio; Calvet; Lima",
+    "comment": "Santos mantém nível lendário; Boca chega forte, mas abaixo da máquina santista."
+  },
+  {
+    "id": "1963-Vice-Boca Juniors",
+    "year": 1963,
+    "club": "Boca Juniors",
+    "role": "vice",
+    "rating": 91,
+    "players": "Antonio Roma; Silvio Marzolini; Antonio Rattín; Orlando Peçanha; Carmelo Simeone; Alberto González; José Sanfilippo; Paulo Valentim; Norberto Menéndez",
+    "comment": "Santos mantém nível lendário; Boca chega forte, mas abaixo da máquina santista."
+  },
+  {
+    "id": "1964-Campeão-Independiente",
+    "year": 1964,
+    "club": "Independiente",
+    "role": "campeão",
+    "rating": 91,
+    "players": "Miguel Santoro; Raúl Bernao; David Acevedo; Mario Rodríguez; Tomás Rolan; Osvaldo Mura; Jorge Maldonado; Luis Suárez; Roberto Ferreiro",
+    "comment": "Independiente muito sólido; Nacional finalista tradicional e competitivo."
+  },
+  {
+    "id": "1964-Vice-Nacional",
+    "year": 1964,
+    "club": "Nacional",
+    "role": "vice",
+    "rating": 87,
+    "players": "Manga; Emilio Álvarez; Luis Ubiña; Julio César Morales; Ildo Maneiro; Héctor Salvá; Roberto Sosa; Juan Martín Mujica",
+    "comment": "Independiente muito sólido; Nacional finalista tradicional e competitivo."
+  },
+  {
+    "id": "1965-Campeão-Independiente",
+    "year": 1965,
+    "club": "Independiente",
+    "role": "campeão",
+    "rating": 92,
+    "players": "Miguel Santoro; Raúl Bernao; David Acevedo; Mario Rodríguez; Tomás Rolan; Juan Carlos Guzmán; Osvaldo Mura; Jorge Maldonado; Roberto Ferreiro",
+    "comment": "Final muito equilibrada entre duas potências; Independiente leva leve bônus pela taça."
+  },
+  {
+    "id": "1965-Vice-Peñarol",
+    "year": 1965,
+    "club": "Peñarol",
+    "role": "vice",
+    "rating": 92,
+    "players": "Ladislao Mazurkiewicz; Pablo Forlán; Néstor Gonçalves; Pedro Rocha; Alberto Spencer; Luis Cubilla; Julio César Abbadie; Juan Joya; Roberto Matosas",
+    "comment": "Final muito equilibrada entre duas potências; Independiente leva leve bônus pela taça."
+  },
+  {
+    "id": "1966-Campeão-Peñarol",
+    "year": 1966,
+    "club": "Peñarol",
+    "role": "campeão",
+    "rating": 95,
+    "players": "Ladislao Mazurkiewicz; Pablo Forlán; Néstor Gonçalves; Pedro Rocha; Alberto Spencer; Julio César Abbadie; Juan Joya; Roberto Matosas; José Sasía",
+    "comment": "Peñarol de Spencer, Rocha e Mazurkiewicz é elite histórica; River também muito forte."
+  },
+  {
+    "id": "1966-Vice-River Plate",
+    "year": 1966,
+    "club": "River Plate",
+    "role": "vice",
+    "rating": 91,
+    "players": "Amadeo Carrizo; Luis Cubilla; Ermindo Onega; Daniel Onega; Oscar Más; Jorge Solari; Roberto Ferreiro; Vladislao Cap; Juan Carlos Sarnari",
+    "comment": "Peñarol de Spencer, Rocha e Mazurkiewicz é elite histórica; River também muito forte."
+  },
+  {
+    "id": "1967-Campeão-Racing",
+    "year": 1967,
+    "club": "Racing",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Agustín Cejas; Roberto Perfumo; Alfio Basile; Humberto Maschio; Juan José Rodríguez; Norberto Raffo; João Cardoso; Rubén Díaz; Miguel Mori",
+    "comment": "Racing campeão bem estruturado; Nacional mantinha peso continental."
+  },
+  {
+    "id": "1967-Vice-Nacional",
+    "year": 1967,
+    "club": "Nacional",
+    "role": "vice",
+    "rating": 87,
+    "players": "Manga; Emilio Álvarez; Luis Ubiña; Julio Montero Castillo; Ildo Maneiro; Julio César Morales; Víctor Espárrago; Juan Martín Mujica",
+    "comment": "Racing campeão bem estruturado; Nacional mantinha peso continental."
+  },
+  {
+    "id": "1968-Campeão-Estudiantes",
+    "year": 1968,
+    "club": "Estudiantes",
+    "role": "campeão",
+    "rating": 91,
+    "players": "Alberto Poletti; Oscar Malbernat; Raúl Madero; Eduardo Luján Manera; Carlos Bilardo; Carlos Pachamé; Juan Ramón Verón; Marcos Conigliaro; Felipe Ribaudo",
+    "comment": "Estudiantes inicia ciclo vencedor; Palmeiras tinha elenco técnico e respeitável."
+  },
+  {
+    "id": "1968-Vice-Palmeiras",
+    "year": 1968,
+    "club": "Palmeiras",
+    "role": "vice",
+    "rating": 89,
+    "players": "Valdir de Moraes; Djalma Dias; Luís Pereira; Dudu; Ademir da Guia; Tupãzinho; Servílio; César Maluco; Ferrari",
+    "comment": "Estudiantes inicia ciclo vencedor; Palmeiras tinha elenco técnico e respeitável."
+  },
+  {
+    "id": "1969-Campeão-Estudiantes",
+    "year": 1969,
+    "club": "Estudiantes",
+    "role": "campeão",
+    "rating": 92,
+    "players": "Alberto Poletti; Oscar Malbernat; Raúl Madero; Eduardo Luján Manera; Carlos Bilardo; Carlos Pachamé; Juan Ramón Verón; Marcos Conigliaro; Rubén Pagnanini",
+    "comment": "Estudiantes bicampeão, competitivo e cascudo; Nacional forte, mas superado."
+  },
+  {
+    "id": "1969-Vice-Nacional",
+    "year": 1969,
+    "club": "Nacional",
+    "role": "vice",
+    "rating": 88,
+    "players": "Manga; Luis Ubiña; Julio Montero Castillo; Ildo Maneiro; Julio César Morales; Víctor Espárrago; Juan Martín Mujica; Luis Artime; Luis Cubilla",
+    "comment": "Estudiantes bicampeão, competitivo e cascudo; Nacional forte, mas superado."
+  },
+  {
+    "id": "1970-Campeão-Estudiantes",
+    "year": 1970,
+    "club": "Estudiantes",
+    "role": "campeão",
+    "rating": 91,
+    "players": "Alberto Poletti; Oscar Malbernat; Raúl Madero; Carlos Bilardo; Carlos Pachamé; Juan Ramón Verón; Marcos Conigliaro; Ramón Aguirre Suárez; Hugo Togneri",
+    "comment": "Tri do Estudiantes confirma consistência; Peñarol já não era exatamente o auge dos anos 60."
+  },
+  {
+    "id": "1970-Vice-Peñarol",
+    "year": 1970,
+    "club": "Peñarol",
+    "role": "vice",
+    "rating": 87,
+    "players": "Ladislao Mazurkiewicz; Pablo Forlán; Néstor Gonçalves; Pedro Rocha; Alberto Spencer; Julio César Abbadie; José Urruzmendi; Walter Olivera; Rubén Corbo",
+    "comment": "Tri do Estudiantes confirma consistência; Peñarol já não era exatamente o auge dos anos 60."
+  },
+  {
+    "id": "1971-Campeão-Nacional",
+    "year": 1971,
+    "club": "Nacional",
+    "role": "campeão",
+    "rating": 91,
+    "players": "Manga; Luis Ubiña; Julio Montero Castillo; Luis Artime; Víctor Espárrago; Juan Carlos Blanco; Juan Martín Mujica; Julio César Morales; Luis Cubilla",
+    "comment": "Nacional campeão com base robusta; Estudiantes ainda muito difícil de bater."
+  },
+  {
+    "id": "1971-Vice-Estudiantes",
+    "year": 1971,
+    "club": "Estudiantes",
+    "role": "vice",
+    "rating": 89,
+    "players": "Alberto Poletti; Oscar Malbernat; Raúl Madero; Carlos Bilardo; Carlos Pachamé; Juan Ramón Verón; Marcos Conigliaro; Hugo Togneri",
+    "comment": "Nacional campeão com base robusta; Estudiantes ainda muito difícil de bater."
+  },
+  {
+    "id": "1972-Campeão-Independiente",
+    "year": 1972,
+    "club": "Independiente",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Miguel Santoro; Ricardo Pavoni; Francisco Sá; Miguel Ángel Raimondo; Alejandro Semenewicz; Eduardo Maglioni; Luis Garisto; Agustín Balbuena; Eduardo Commisso",
+    "comment": "Independiente inicia tetracampeonato; Universitario fez grande campanha histórica."
+  },
+  {
+    "id": "1972-Vice-Universitario",
+    "year": 1972,
+    "club": "Universitario",
+    "role": "vice",
+    "rating": 84,
+    "players": "Héctor Chumpitaz; Percy Rojas; Oswaldo Ramírez; Roberto Challe; Juan José Muñante; Juan Carlos Oblitas; Fernando Cuéllar; Rubén Techera; Luis La Fuente",
+    "comment": "Independiente inicia tetracampeonato; Universitario fez grande campanha histórica."
+  },
+  {
+    "id": "1973-Campeão-Independiente",
+    "year": 1973,
+    "club": "Independiente",
+    "role": "campeão",
+    "rating": 91,
+    "players": "Ricardo Bochini; Daniel Bertoni; Miguel Santoro; Ricardo Pavoni; Francisco Sá; Miguel Ángel Raimondo; Eduardo Maglioni; Alejandro Semenewicz; Agustín Balbuena",
+    "comment": "Independiente segue fortíssimo; Colo-Colo teve campanha marcante."
+  },
+  {
+    "id": "1973-Vice-Colo-Colo",
+    "year": 1973,
+    "club": "Colo-Colo",
+    "role": "vice",
+    "rating": 87,
+    "players": "Francisco Valdés; Carlos Caszely; Leonel Herrera; Adolfo Nef; Sergio Ahumada; Leonardo Véliz; Rafael González; Mario Galindo; Julio Crisosto",
+    "comment": "Independiente segue fortíssimo; Colo-Colo teve campanha marcante."
+  },
+  {
+    "id": "1974-Campeão-Independiente",
+    "year": 1974,
+    "club": "Independiente",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Ricardo Bochini; Daniel Bertoni; Miguel Santoro; Francisco Sá; Ricardo Pavoni; Miguel Ángel Raimondo; Agustín Balbuena; Ricardo Ruiz Moreno; Alejandro Semenewicz",
+    "comment": "Independiente no auge do ciclo; São Paulo era finalista de alto nível."
+  },
+  {
+    "id": "1974-Vice-São Paulo",
+    "year": 1974,
+    "club": "São Paulo",
+    "role": "vice",
+    "rating": 88,
+    "players": "Valdir Peres; Pablo Forlán; Chicão; Muricy Ramalho; Pedro Rocha; Piau; Terto; Paraná; Zé Carlos",
+    "comment": "Independiente no auge do ciclo; São Paulo era finalista de alto nível."
+  },
+  {
+    "id": "1975-Campeão-Independiente",
+    "year": 1975,
+    "club": "Independiente",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Ricardo Bochini; Daniel Bertoni; José Alberto Pérez; Francisco Sá; Ricardo Pavoni; Eduardo Commisso; Alejandro Semenewicz; Rubén Galván; Agustín Balbuena",
+    "comment": "Independiente fecha sequência histórica; Unión Española foi competitiva, mas menos pesada."
+  },
+  {
+    "id": "1975-Vice-Unión Española",
+    "year": 1975,
+    "club": "Unión Española",
+    "role": "vice",
+    "rating": 83,
+    "players": "Leopoldo Vallejos; Juan Machuca; Hugo Berly; Mario Soto; Antonio Arias; Rubén Palacios; Francisco Las Heras; Sergio Ahumada; Jorge Spedaletti; Leonardo Véliz",
+    "comment": "Independiente fecha sequência histórica; Unión Española foi competitiva, mas menos pesada."
+  },
+  {
+    "id": "1976-Vice-River Plate",
+    "year": 1976,
+    "club": "River Plate",
+    "role": "vice",
+    "rating": 93,
+    "players": "Ubaldo Fillol; Daniel Passarella; Roberto Perfumo; Juan José López; Reinaldo Merlo; Norberto Alonso; Leopoldo Luque; Oscar Más; Pedro González",
+    "comment": "Cruzeiro de Nelinho, Piazza, Palhinha e companhia foi elite; River também era fortíssimo."
+  },
+  {
+    "id": "1977-Campeão-Boca Juniors",
+    "year": 1977,
+    "club": "Boca Juniors",
+    "role": "campeão",
+    "rating": 91,
+    "players": "Hugo Gatti; Vicente Pernía; Roberto Mouzo; Alberto Tarantini; Rubén Suñé; Ernesto Mastrángelo; Carlos Veglio; Jorge Benítez; Darío Felman",
+    "comment": "Boca campeão pela decisão; Cruzeiro tinha elenco ligeiramente superior no papel."
+  },
+  {
+    "id": "1978-Campeão-Boca Juniors",
+    "year": 1978,
+    "club": "Boca Juniors",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Hugo Gatti; Vicente Pernía; Roberto Mouzo; Francisco Sá; Rubén Suñé; Jorge Benítez; Carlos Salinas; Mario Zanabria; Hugo Perotti; Ernesto Mastrángelo",
+    "comment": "Boca confirma força continental; Deportivo Cali teve mérito, mas menor densidade."
+  },
+  {
+    "id": "1978-Vice-Deportivo Cali",
+    "year": 1978,
+    "club": "Deportivo Cali",
+    "role": "vice",
+    "rating": 83,
+    "players": "Pedro Zape; William Ospina; Miguel Escobar; Henry Caicedo; Heriberto Correa; Ángel Landucci; Rafael Otero; César Valverde; Néstor Scotta; Ángel Torres",
+    "comment": "Boca confirma força continental; Deportivo Cali teve mérito, mas menor densidade."
+  },
+  {
+    "id": "1979-Campeão-Olimpia",
+    "year": 1979,
+    "club": "Olimpia",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Ever Almeida; Alicio Solalinde; Hugo Talavera; Evaristo Isasi; Carlos Kiese; Osvaldo Aquino; Miguel Michelagnoli; Roberto Paredes; Julio César Romero",
+    "comment": "Olimpia histórico e completo; Boca chegava como bicampeão recente."
+  },
+  {
+    "id": "1979-Vice-Boca Juniors",
+    "year": 1979,
+    "club": "Boca Juniors",
+    "role": "vice",
+    "rating": 90,
+    "players": "Hugo Gatti; Vicente Pernía; Roberto Mouzo; Rubén Suñé; Jorge Benítez; Carlos Salinas; Mario Zanabria; Hugo Perotti; Ernesto Mastrángelo",
+    "comment": "Olimpia histórico e completo; Boca chegava como bicampeão recente."
+  },
+  {
+    "id": "1980-Campeão-Nacional",
+    "year": 1980,
+    "club": "Nacional",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Rodolfo Rodríguez; Hugo de León; Waldemar Victorino; Julio César Morales; Juan Carlos Blanco; Arsenio Luzardo; Dardo Pérez; Washington González; Daniel Enríquez",
+    "comment": "Nacional eficiente e copeiro; Internacional tinha base muito respeitável."
+  },
+  {
+    "id": "1980-Vice-Internacional",
+    "year": 1980,
+    "club": "Internacional",
+    "role": "vice",
+    "rating": 88,
+    "players": "Benítez; Mauro Galvão; Mauro Pastor; Cláudio Duarte; Batista; Paulo Roberto Falcão; Valdomiro; Jair; Mário Sérgio",
+    "comment": "Nacional eficiente e copeiro; Internacional tinha base muito respeitável."
+  },
+  {
+    "id": "1981-Campeão-Flamengo",
+    "year": 1981,
+    "club": "Flamengo",
+    "role": "campeão",
+    "rating": 99,
+    "players": "Zico; Júnior; Leandro; Andrade; Adílio; Nunes; Tita; Raul Plassmann; Mozer; Lico",
+    "comment": "Flamengo de Zico, Júnior, Leandro e Nunes é elenco/campanha lendário; Cobreloa foi duro."
+  },
+  {
+    "id": "1981-Vice-Cobreloa",
+    "year": 1981,
+    "club": "Cobreloa",
+    "role": "vice",
+    "rating": 87,
+    "players": "Óscar Wirth; Mario Soto; Víctor Merello; Enzo Escobar; Eduardo Fournier; Héctor Puebla; Juan Carlos Letelier; Eduardo Gómez; Washington Olivera",
+    "comment": "Flamengo de Zico, Júnior, Leandro e Nunes é elenco/campanha lendário; Cobreloa foi duro."
+  },
+  {
+    "id": "1982-Campeão-Peñarol",
+    "year": 1982,
+    "club": "Peñarol",
+    "role": "campeão",
+    "rating": 91,
+    "players": "Fernando Morena; Gustavo Fernández; Nelson Gutiérrez; Walter Olivera; Mario Saralegui; Jair Gonçalves; Venancio Ramos; Miguel Bossio; Jorge Fossati",
+    "comment": "Peñarol volta ao topo; Cobreloa repetiu final com bom nível competitivo."
+  },
+  {
+    "id": "1982-Vice-Cobreloa",
+    "year": 1982,
+    "club": "Cobreloa",
+    "role": "vice",
+    "rating": 88,
+    "players": "Óscar Wirth; Mario Soto; Víctor Merello; Enzo Escobar; Eduardo Fournier; Héctor Puebla; Juan Carlos Letelier; Víctor Cabrera; Eduardo Gómez",
+    "comment": "Peñarol volta ao topo; Cobreloa repetiu final com bom nível competitivo."
+  },
+  {
+    "id": "1983-Campeão-Grêmio",
+    "year": 1983,
+    "club": "Grêmio",
+    "role": "campeão",
+    "rating": 92,
+    "players": "Mazaropi; Hugo de León; Paulo Roberto; China; Osvaldo; Tarciso; Renato Gaúcho; Caio; Mário Sérgio; Baltazar",
+    "comment": "Grêmio de Renato, De León e companhia foi campeão muito forte; Peñarol seguia tradicional."
+  },
+  {
+    "id": "1983-Vice-Peñarol",
+    "year": 1983,
+    "club": "Peñarol",
+    "role": "vice",
+    "rating": 89,
+    "players": "Fernando Morena; Jorge Fossati; Walter Olivera; Nelson Gutiérrez; Mario Saralegui; Venancio Ramos; Jair Gonçalves; Miguel Bossio; José Perdomo",
+    "comment": "Grêmio de Renato, De León e companhia foi campeão muito forte; Peñarol seguia tradicional."
+  },
+  {
+    "id": "1984-Campeão-Independiente",
+    "year": 1984,
+    "club": "Independiente",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Ricardo Bochini; Jorge Burruchaga; Ricardo Giusti; Claudio Marangoni; Néstor Clausen; Enzo Trossero; Carlos Gay; Carlos Percudani; Hugo Villaverde",
+    "comment": "Independiente campeão copeiro; Grêmio ainda era uma base forte, mas menos dominante que 1983."
+  },
+  {
+    "id": "1984-Vice-Grêmio",
+    "year": 1984,
+    "club": "Grêmio",
+    "role": "vice",
+    "rating": 87,
+    "players": "Mazaropi; Hugo de León; Paulo Roberto; Casemiro; China; Renato Gaúcho; Tarciso; Osvaldo; Caio",
+    "comment": "Independiente campeão copeiro; Grêmio ainda era uma base forte, mas menos dominante que 1983."
+  },
+  {
+    "id": "1985-Campeão-Argentinos Juniors",
+    "year": 1985,
+    "club": "Argentinos Juniors",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Enrique Vidallé; José Luis Pavoni; Jorge Olguín; Sergio Batista; Claudio Borghi; Carlos Ereros; Emilio Commisso; José Castro; Pedro Pasculli",
+    "comment": "Argentinos Juniors muito organizado e técnico; América de Cali já era potência emergente."
+  },
+  {
+    "id": "1985-Vice-América de Cali",
+    "year": 1985,
+    "club": "América de Cali",
+    "role": "vice",
+    "rating": 88,
+    "players": "Julio César Falcioni; Willington Ortiz; Ricardo Gareca; Roberto Cabañas; Antony de Ávila; Álex Escobar; Pedro Sarmiento; Alberto de la Torre; Carlos Ischia",
+    "comment": "Argentinos Juniors muito organizado e técnico; América de Cali já era potência emergente."
+  },
+  {
+    "id": "1986-Campeão-River Plate",
+    "year": 1986,
+    "club": "River Plate",
+    "role": "campeão",
+    "rating": 95,
+    "players": "Nery Pumpido; Oscar Ruggeri; Américo Gallego; Héctor Enrique; Norberto Alonso; Antonio Alzamendi; Juan Gilberto Funes; Roque Alfaro; Alejandro Montenegro",
+    "comment": "River de Francescoli e Alonso é campeão de alto patamar; América de Cali muito competitivo."
+  },
+  {
+    "id": "1986-Vice-América de Cali",
+    "year": 1986,
+    "club": "América de Cali",
+    "role": "vice",
+    "rating": 89,
+    "players": "Julio César Falcioni; Willington Ortiz; Ricardo Gareca; Roberto Cabañas; Antony de Ávila; Álex Escobar; Pedro Sarmiento; Alberto de la Torre; Carlos Ischia",
+    "comment": "River de Francescoli e Alonso é campeão de alto patamar; América de Cali muito competitivo."
+  },
+  {
+    "id": "1987-Campeão-Peñarol",
+    "year": 1987,
+    "club": "Peñarol",
+    "role": "campeão",
+    "rating": 88,
+    "players": "Diego Aguirre; Obdulio Trasante; José Perdomo; Nelson Gutiérrez; Miguel Bossio; Eduardo Da Silva; Jorge Gonçalves; José Herrera; Fernando Álvez",
+    "comment": "Peñarol campeão mais pela mística e decisão; América de Cali tinha elenco fortíssimo."
+  },
+  {
+    "id": "1987-Vice-América de Cali",
+    "year": 1987,
+    "club": "América de Cali",
+    "role": "vice",
+    "rating": 89,
+    "players": "Julio César Falcioni; Willington Ortiz; Ricardo Gareca; Roberto Cabañas; Antony de Ávila; Álex Escobar; Carlos Ischia; Sergio Angulo; Jorge da Silva",
+    "comment": "Peñarol campeão mais pela mística e decisão; América de Cali tinha elenco fortíssimo."
+  },
+  {
+    "id": "1988-Campeão-Nacional",
+    "year": 1988,
+    "club": "Nacional",
+    "role": "campeão",
+    "rating": 89,
+    "players": "Jorge Seré; Hugo de León; Santiago Ostolaza; Ernesto Vargas; Jorge Cardaccio; Daniel Fonseca; Carlos De Lima; William Castro; José Perdomo",
+    "comment": "Nacional campeão consistente; Newell’s foi finalista muito competitivo."
+  },
+  {
+    "id": "1988-Vice-Newell's Old Boys",
+    "year": 1988,
+    "club": "Newell's Old Boys",
+    "role": "vice",
+    "rating": 87,
+    "players": "Norberto Scoponi; Gerardo Martino; Julio Zamora; Juan Manuel Llop; Jorge Theiler; Roberto Sensini; Mauricio Pochettino; Alfredo Berti; Sergio Almirón",
+    "comment": "Nacional campeão consistente; Newell’s foi finalista muito competitivo."
+  },
+  {
+    "id": "1989-Campeão-Atlético Nacional",
+    "year": 1989,
+    "club": "Atlético Nacional",
+    "role": "campeão",
+    "rating": 94,
+    "players": "René Higuita; Andrés Escobar; Luis Carlos Perea; Gildardo Gómez; Leonel Álvarez; Alexis García; Albeiro Usuriaga; John Jairo Tréllez; Jaime Arango",
+    "comment": "Atlético Nacional de Higuita e companhia marcou época; Olimpia era adversário forte."
+  },
+  {
+    "id": "1989-Vice-Olimpia",
+    "year": 1989,
+    "club": "Olimpia",
+    "role": "vice",
+    "rating": 88,
+    "players": "Ever Almeida; Alicio Solalinde; Gabriel González; Raúl Vicente Amarilla; Adriano Samaniego; Virginio Cáceres; Gustavo Neffa; Luis Monzón; Luis Caballero",
+    "comment": "Atlético Nacional de Higuita e companhia marcou época; Olimpia era adversário forte."
+  },
+  {
+    "id": "1990-Campeão-Olimpia",
+    "year": 1990,
+    "club": "Olimpia",
+    "role": "campeão",
+    "rating": 90,
+    "players": "Ever Almeida; Gabriel González; Raúl Vicente Amarilla; Adriano Samaniego; Virginio Cáceres; Luis Monzón; Gustavo Neffa; Julio César Romero; Luis Caballero",
+    "comment": "Olimpia volta a ser campeão continental; Barcelona SC foi surpresa competitiva."
+  },
+  {
+    "id": "1990-Vice-Barcelona SC",
+    "year": 1990,
+    "club": "Barcelona SC",
+    "role": "vice",
+    "rating": 84,
+    "players": "Carlos Luis Morales; Jimmy Izquierdo; José Gavica; Hólger Quiñónez; Carlos Muñoz; Rubén Insúa; Marcelo Trobbiani; Luis Capurro; Jimmy Montanero",
+    "comment": "Olimpia volta a ser campeão continental; Barcelona SC foi surpresa competitiva."
+  },
+  {
+    "id": "1991-Campeão-Colo-Colo",
+    "year": 1991,
+    "club": "Colo-Colo",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Daniel Morón; Lizardo Garrido; Miguel Ramírez; Jaime Pizarro; Marcelo Barticciotto; Gabriel Mendoza; Rubén Espinoza; Rubén Martínez; Patricio Yáñez",
+    "comment": "Colo-Colo de 1991 é histórico no Chile; Olimpia manteve alto nível."
+  },
+  {
+    "id": "1991-Vice-Olimpia",
+    "year": 1991,
+    "club": "Olimpia",
+    "role": "vice",
+    "rating": 88,
+    "players": "Ever Almeida; Gabriel González; Raúl Vicente Amarilla; Adriano Samaniego; Virginio Cáceres; Luis Monzón; Gustavo Neffa; Luis Caballero; Jorge Amado Nunes",
+    "comment": "Colo-Colo de 1991 é histórico no Chile; Olimpia manteve alto nível."
+  },
+  {
+    "id": "1992-Campeão-São Paulo",
+    "year": 1992,
+    "club": "São Paulo",
+    "role": "campeão",
+    "rating": 97,
+    "players": "Zetti; Cafu; Ronaldão; Válber; Pintado; Toninho Cerezo; Raí; Palhinha; Müller; Ivan",
+    "comment": "São Paulo de Telê começa um dos ciclos mais brilhantes; Newell’s era muito bem treinado."
+  },
+  {
+    "id": "1992-Vice-Newell's Old Boys",
+    "year": 1992,
+    "club": "Newell's Old Boys",
+    "role": "vice",
+    "rating": 90,
+    "players": "Norberto Scoponi; Gerardo Martino; Julio Zamora; Juan Manuel Llop; Jorge Theiler; Roberto Sensini; Mauricio Pochettino; Alfredo Berti; Julio Saldaña",
+    "comment": "São Paulo de Telê começa um dos ciclos mais brilhantes; Newell’s era muito bem treinado."
+  },
+  {
+    "id": "1993-Campeão-São Paulo",
+    "year": 1993,
+    "club": "São Paulo",
+    "role": "campeão",
+    "rating": 98,
+    "players": "Zetti; Cafu; Válber; Ronaldão; Dinho; Toninho Cerezo; Raí; Palhinha; Müller; Leonardo",
+    "comment": "São Paulo atinge nível quase lendário; Universidad Católica fez campanha forte, mas abaixo."
+  },
+  {
+    "id": "1993-Vice-Universidad Católica",
+    "year": 1993,
+    "club": "Universidad Católica",
+    "role": "vice",
+    "rating": 87,
+    "players": "Nelson Tapia; Miguel Ponce; Andrés Romero; José del Solar; Alberto Acosta; Néstor Gorosito; Rodrigo Barrera; Juvenal Olmos; Raimundo Tupper",
+    "comment": "São Paulo atinge nível quase lendário; Universidad Católica fez campanha forte, mas abaixo."
+  },
+  {
+    "id": "1994-Campeão-Vélez Sarsfield",
+    "year": 1994,
+    "club": "Vélez Sarsfield",
+    "role": "campeão",
+    "rating": 93,
+    "players": "José Luis Chilavert; Roberto Trotta; Mauricio Pellegrino; Christian Bassedas; Roberto Pompei; José Basualdo; Omar Asad; José Flores; Raúl Cardozo; Marcelo Gómez",
+    "comment": "Vélez foi campeão gigante; São Paulo ainda tinha elenco superior no papel e enorme pedigree."
+  },
+  {
+    "id": "1994-Vice-São Paulo",
+    "year": 1994,
+    "club": "São Paulo",
+    "role": "vice",
+    "rating": 95,
+    "players": "Zetti; Cafu; Válber; Ronaldão; Dinho; Toninho Cerezo; Leonardo; Müller; Euller; Palhinha",
+    "comment": "Vélez foi campeão gigante; São Paulo ainda tinha elenco superior no papel e enorme pedigree."
+  },
+  {
+    "id": "1995-Campeão-Grêmio",
+    "year": 1995,
+    "club": "Grêmio",
+    "role": "campeão",
+    "rating": 94,
+    "players": "Danrlei; Arce; Rivarola; Adílson Batista; Roger; Dinho; Goiano; Arílson; Paulo Nunes; Jardel",
+    "comment": "Grêmio de Felipão foi muito forte e competitivo; Atlético Nacional manteve tradição."
+  },
+  {
+    "id": "1995-Vice-Atlético Nacional",
+    "year": 1995,
+    "club": "Atlético Nacional",
+    "role": "vice",
+    "rating": 88,
+    "players": "René Higuita; Luis Carlos Perea; Mauricio Serna; Víctor Hugo Aristizábal; Juan Pablo Ángel; Alexis García; Hernán Gaviria; Hugo Gallego; Oswaldo Mackenzie",
+    "comment": "Grêmio de Felipão foi muito forte e competitivo; Atlético Nacional manteve tradição."
+  },
+  {
+    "id": "1996-Campeão-River Plate",
+    "year": 1996,
+    "club": "River Plate",
+    "role": "campeão",
+    "rating": 94,
+    "players": "Germán Burgos; Hernán Díaz; Celso Ayala; Juan Pablo Sorín; Matías Almeyda; Leonardo Astrada; Enzo Francescoli; Ariel Ortega; Hernán Crespo; Marcelo Gallardo",
+    "comment": "River campeão com grande elenco; América de Cali novamente muito forte, mas sem a taça."
+  },
+  {
+    "id": "1996-Vice-América de Cali",
+    "year": 1996,
+    "club": "América de Cali",
+    "role": "vice",
+    "rating": 88,
+    "players": "Óscar Córdoba; Jorge Bermúdez; Arley Dinas; Foad Maziri; Wilmer Cabrera; Alfredo Berti; Frankie Oviedo; Álex Escobar; Henry Zambrano; Antony de Ávila",
+    "comment": "River campeão com grande elenco; América de Cali novamente muito forte, mas sem a taça."
+  },
+  {
+    "id": "1997-Vice-Sporting Cristal",
+    "year": 1997,
+    "club": "Sporting Cristal",
+    "role": "vice",
+    "rating": 85,
+    "players": "Julio César Balerio; Jorge Soto; Roberto Palacios; Julinho; Nolberto Solano; Pedro Garay; Miguel Rebosio; Percy Olivares; Flavio Maestri",
+    "comment": "Cruzeiro campeão copeiro, mas não entre os campeões mais dominantes; Sporting Cristal fez ótima campanha."
+  },
+  {
+    "id": "1998-Campeão-Vasco da Gama",
+    "year": 1998,
+    "club": "Vasco da Gama",
+    "role": "campeão",
+    "rating": 95,
+    "players": "Carlos Germano; Odvan; Mauro Galvão; Felipe; Nasa; Juninho Pernambucano; Pedrinho; Donizete; Luizão; Ramon",
+    "comment": "Vasco do centenário tinha elenco fortíssimo; Barcelona SC foi finalista respeitável."
+  },
+  {
+    "id": "1998-Vice-Barcelona SC",
+    "year": 1998,
+    "club": "Barcelona SC",
+    "role": "vice",
+    "rating": 84,
+    "players": "José Francisco Cevallos; Nicolás Asencio; Agustín Delgado; Antony de Ávila; Luis Gómez; Hólger Quiñónez; Jimmy Montanero; Cléber Chalá; Fricson George",
+    "comment": "Vasco do centenário tinha elenco fortíssimo; Barcelona SC foi finalista respeitável."
+  },
+  {
+    "id": "1999-Campeão-Palmeiras",
+    "year": 1999,
+    "club": "Palmeiras",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Marcos; Arce; Júnior; Roque Júnior; Júnior Baiano; César Sampaio; Zinho; Alex; Oséas; Paulo Nunes",
+    "comment": "Palmeiras de Felipão, Marcos, Alex e companhia foi muito forte; Deportivo Cali competitivo."
+  },
+  {
+    "id": "1999-Vice-Deportivo Cali",
+    "year": 1999,
+    "club": "Deportivo Cali",
+    "role": "vice",
+    "rating": 85,
+    "players": "Miguel Calero; Mario Yepes; Gerardo Bedoya; Mayer Candelo; Martín Zapata; Víctor Bonilla; Arley Dinas; Herman Gaviria; Giovanni Hernández",
+    "comment": "Palmeiras de Felipão, Marcos, Alex e companhia foi muito forte; Deportivo Cali competitivo."
+  },
+  {
+    "id": "2000-Campeão-Boca Juniors",
+    "year": 2000,
+    "club": "Boca Juniors",
+    "role": "campeão",
+    "rating": 94,
+    "players": "Óscar Córdoba; Hugo Ibarra; Walter Samuel; Jorge Bermúdez; Mauricio Serna; Sebastián Battaglia; Juan Román Riquelme; Martín Palermo; Marcelo Delgado; Guillermo Barros Schelotto",
+    "comment": "Boca de Bianchi inicia ciclo gigante; Palmeiras era adversário de nível muito alto."
+  },
+  {
+    "id": "2000-Vice-Palmeiras",
+    "year": 2000,
+    "club": "Palmeiras",
+    "role": "vice",
+    "rating": 91,
+    "players": "Marcos; Arce; Júnior; Roque Júnior; César Sampaio; Alex; Galeano; Euller; Oséas; Paulo Nunes",
+    "comment": "Boca de Bianchi inicia ciclo gigante; Palmeiras era adversário de nível muito alto."
+  },
+  {
+    "id": "2001-Campeão-Boca Juniors",
+    "year": 2001,
+    "club": "Boca Juniors",
+    "role": "campeão",
+    "rating": 92,
+    "players": "Óscar Córdoba; Hugo Ibarra; Jorge Bermúdez; Nicolás Burdisso; Mauricio Serna; Sebastián Battaglia; Juan Román Riquelme; Marcelo Delgado; Guillermo Barros Schelotto; Cristian Traverso",
+    "comment": "Boca confirma força copeira; Cruz Azul fez grande campanha, mas menos tradição e profundidade."
+  },
+  {
+    "id": "2001-Vice-Cruz Azul",
+    "year": 2001,
+    "club": "Cruz Azul",
+    "role": "vice",
+    "rating": 86,
+    "players": "Óscar Pérez; Melvin Brown; Juan Reynoso; Julio César Pinheiro; Francisco Palencia; Carlos Hermosillo; Ángel Morales; Cesáreo Victorino; Horacio Cervantes; Pablo Galdames",
+    "comment": "Boca confirma força copeira; Cruz Azul fez grande campanha, mas menos tradição e profundidade."
+  },
+  {
+    "id": "2002-Campeão-Olimpia",
+    "year": 2002,
+    "club": "Olimpia",
+    "role": "campeão",
+    "rating": 89,
+    "players": "Ricardo Tavarelli; Julio César Cáceres; Pedro Benítez; Sergio Orteman; Julio Enciso; Richart Báez; Nelson Cuevas; Miguel Benítez; Gastón Córdoba",
+    "comment": "Olimpia campeão improvável, mas resiliente; São Caetano tinha ótimo conjunto."
+  },
+  {
+    "id": "2002-Vice-São Caetano",
+    "year": 2002,
+    "club": "São Caetano",
+    "role": "vice",
+    "rating": 86,
+    "players": "Silvio Luiz; Serginho; Dininho; Daniel; Marcos Senna; Adãozinho; Aílton; Anaílson; Somália; Adhemar",
+    "comment": "Olimpia campeão improvável, mas resiliente; São Caetano tinha ótimo conjunto."
+  },
+  {
+    "id": "2003-Campeão-Boca Juniors",
+    "year": 2003,
+    "club": "Boca Juniors",
+    "role": "campeão",
+    "rating": 95,
+    "players": "Roberto Abbondanzieri; Hugo Ibarra; Rolando Schiavi; Nicolás Burdisso; Clemente Rodríguez; Sebastián Battaglia; Raúl Cascini; Diego Cagna; Carlos Tevez; Guillermo Barros Schelotto",
+    "comment": "Boca de Tevez/Riquelme e Bianchi em alto patamar; Santos de Robinho e Diego era excelente."
+  },
+  {
+    "id": "2003-Vice-Santos",
+    "year": 2003,
+    "club": "Santos",
+    "role": "vice",
+    "rating": 91,
+    "players": "Fábio Costa; Alex; André Luís; Léo; Paulo Almeida; Renato; Diego; Robinho; Elano; Ricardo Oliveira",
+    "comment": "Boca de Tevez/Riquelme e Bianchi em alto patamar; Santos de Robinho e Diego era excelente."
+  },
+  {
+    "id": "2004-Campeão-Once Caldas",
+    "year": 2004,
+    "club": "Once Caldas",
+    "role": "campeão",
+    "rating": 86,
+    "players": "Juan Carlos Henao; Samuel Vanegas; Elkin Soto; John Viáfara; Arnulfo Valentierra; Herly Alcázar; Sergio Galván Rey; Dayro Moreno; Jorge Agudelo",
+    "comment": "Once Caldas foi campeão épico e organizado; Boca tinha elenco/currículo superior."
+  },
+  {
+    "id": "2004-Vice-Boca Juniors",
+    "year": 2004,
+    "club": "Boca Juniors",
+    "role": "vice",
+    "rating": 91,
+    "players": "Roberto Abbondanzieri; Hugo Ibarra; Rolando Schiavi; Nicolás Burdisso; Clemente Rodríguez; Sebastián Battaglia; Raúl Cascini; Diego Cagna; Carlos Tevez; Guillermo Barros Schelotto",
+    "comment": "Once Caldas foi campeão épico e organizado; Boca tinha elenco/currículo superior."
+  },
+  {
+    "id": "2005-Campeão-São Paulo",
+    "year": 2005,
+    "club": "São Paulo",
+    "role": "campeão",
+    "rating": 96,
+    "players": "Rogério Ceni; Diego Lugano; Fabão; Cicinho; Júnior; Mineiro; Josué; Danilo; Amoroso; Luizão",
+    "comment": "São Paulo de Rogério Ceni, Lugano, Mineiro e Amoroso foi dominante; Athletico forte, mas abaixo."
+  },
+  {
+    "id": "2005-Vice-Athletico Paranaense",
+    "year": 2005,
+    "club": "Athletico Paranaense",
+    "role": "vice",
+    "rating": 88,
+    "players": "Diego; Marcão; Danilo; Cocito; Fernandinho; Jadson; Lima; Fabrício; Aloísio; Dagoberto",
+    "comment": "São Paulo de Rogério Ceni, Lugano, Mineiro e Amoroso foi dominante; Athletico forte, mas abaixo."
+  },
+  {
+    "id": "2006-Campeão-Internacional",
+    "year": 2006,
+    "club": "Internacional",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Clemer; Ceará; Índio; Fabiano Eller; Jorge Wagner; Edinho; Tinga; Alex; Fernandão; Rafael Sóbis",
+    "comment": "Inter campeão com elenco muito equilibrado; São Paulo também era fortíssimo."
+  },
+  {
+    "id": "2006-Vice-São Paulo",
+    "year": 2006,
+    "club": "São Paulo",
+    "role": "vice",
+    "rating": 91,
+    "players": "Rogério Ceni; Diego Lugano; Fabão; Edcarlos; Souza; Mineiro; Josué; Danilo; Júnior; Aloísio",
+    "comment": "Inter campeão com elenco muito equilibrado; São Paulo também era fortíssimo."
+  },
+  {
+    "id": "2007-Campeão-Boca Juniors",
+    "year": 2007,
+    "club": "Boca Juniors",
+    "role": "campeão",
+    "rating": 97,
+    "players": "Mauricio Caranta; Hugo Ibarra; Claudio Morel Rodríguez; Daniel Díaz; Ever Banega; Pablo Ledesma; Sebastián Battaglia; Juan Román Riquelme; Rodrigo Palacio; Martín Palermo",
+    "comment": "Boca de Riquelme em 2007 foi um dos campeões mais fortes do século; Grêmio competitivo."
+  },
+  {
+    "id": "2007-Vice-Grêmio",
+    "year": 2007,
+    "club": "Grêmio",
+    "role": "vice",
+    "rating": 88,
+    "players": "Sebastián Saja; Patrício; Teco; William; Lúcio; Sandro Goiano; Diego Souza; Lucas Leiva; Tcheco; Carlos Eduardo",
+    "comment": "Boca de Riquelme em 2007 foi um dos campeões mais fortes do século; Grêmio competitivo."
+  },
+  {
+    "id": "2008-Campeão-LDU Quito",
+    "year": 2008,
+    "club": "LDU Quito",
+    "role": "campeão",
+    "rating": 91,
+    "players": "José Francisco Cevallos; Néicer Reasco; Norberto Araujo; Patricio Urrutia; Luis Bolaños; Damián Manso; Joffre Guerrón; Claudio Bieler; Enrique Vera; Paúl Ambrossi",
+    "comment": "LDU fez campanha histórica e madura; Fluminense tinha elenco tecnicamente muito forte."
+  },
+  {
+    "id": "2008-Vice-Fluminense",
+    "year": 2008,
+    "club": "Fluminense",
+    "role": "vice",
+    "rating": 90,
+    "players": "Fernando Henrique; Thiago Silva; Thiago Neves; Darío Conca; Washington; Cícero; Ygor; Gabriel; Júnior César; Luiz Alberto",
+    "comment": "LDU fez campanha histórica e madura; Fluminense tinha elenco tecnicamente muito forte."
+  },
+  {
+    "id": "2009-Campeão-Estudiantes",
+    "year": 2009,
+    "club": "Estudiantes",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Mariano Andújar; Leandro Desábato; Rolando Schiavi; Juan Sebastián Verón; Rodrigo Braña; Enzo Pérez; Leandro Benítez; Gastón Fernández; Mauro Boselli; Clemente Rodríguez",
+    "comment": "Estudiantes de Verón foi muito sólido; Cruzeiro tinha grande elenco e campanha."
+  },
+  {
+    "id": "2010-Campeão-Internacional",
+    "year": 2010,
+    "club": "Internacional",
+    "role": "campeão",
+    "rating": 92,
+    "players": "Renan; Bolívar; Índio; Kléber; Guiñazú; Tinga; D'Alessandro; Rafael Sóbis; Alecsandro; Giuliano",
+    "comment": "Inter campeão com bom equilíbrio; Guadalajara foi finalista digno, mas menos forte."
+  },
+  {
+    "id": "2010-Vice-Guadalajara",
+    "year": 2010,
+    "club": "Guadalajara",
+    "role": "vice",
+    "rating": 85,
+    "players": "Luis Michel; Jonny Magallón; Héctor Reynoso; Patricio Araujo; Omar Arellano; Marco Fabián; Adolfo Bautista; Alberto Medina; Omar Bravo; Xavier Báez",
+    "comment": "Inter campeão com bom equilíbrio; Guadalajara foi finalista digno, mas menos forte."
+  },
+  {
+    "id": "2011-Campeão-Santos",
+    "year": 2011,
+    "club": "Santos",
+    "role": "campeão",
+    "rating": 94,
+    "players": "Rafael; Danilo; Edu Dracena; Durval; Léo; Arouca; Elano; Paulo Henrique Ganso; Neymar; Zé Eduardo",
+    "comment": "Santos de Neymar, Ganso e Elano foi muito forte; Peñarol teve campanha copeira."
+  },
+  {
+    "id": "2011-Vice-Peñarol",
+    "year": 2011,
+    "club": "Peñarol",
+    "role": "vice",
+    "rating": 86,
+    "players": "Sebastián Sosa; Alejandro González; Darío Rodríguez; Carlos Valdez; Matías Corujo; Luis Aguiar; Nicolás Freitas; Antonio Pacheco; Alejandro Martinuccio; Juan Manuel Olivera",
+    "comment": "Santos de Neymar, Ganso e Elano foi muito forte; Peñarol teve campanha copeira."
+  },
+  {
+    "id": "2012-Campeão-Corinthians",
+    "year": 2012,
+    "club": "Corinthians",
+    "role": "campeão",
+    "rating": 96,
+    "players": "Cássio; Alessandro; Chicão; Leandro Castán; Fábio Santos; Ralf; Paulinho; Danilo; Alex; Emerson Sheik",
+    "comment": "Corinthians invicto e defensivamente brilhante; Boca era tradicional e competitivo."
+  },
+  {
+    "id": "2012-Vice-Boca Juniors",
+    "year": 2012,
+    "club": "Boca Juniors",
+    "role": "vice",
+    "rating": 90,
+    "players": "Agustín Orión; Facundo Roncaglia; Rolando Schiavi; Matías Caruzzo; Clemente Rodríguez; Leandro Somoza; Walter Erviti; Juan Román Riquelme; Pablo Mouche; Darío Cvitanich",
+    "comment": "Corinthians invicto e defensivamente brilhante; Boca era tradicional e competitivo."
+  },
+  {
+    "id": "2013-Campeão-Atlético Mineiro",
+    "year": 2013,
+    "club": "Atlético Mineiro",
+    "role": "campeão",
+    "rating": 94,
+    "players": "Victor; Marcos Rocha; Réver; Leonardo Silva; Pierre; Josué; Ronaldinho Gaúcho; Bernard; Diego Tardelli; Jô",
+    "comment": "Atlético Mineiro de Ronaldinho, Victor e Jô fez campanha dramática e forte; Olimpia competitivo."
+  },
+  {
+    "id": "2013-Vice-Olimpia",
+    "year": 2013,
+    "club": "Olimpia",
+    "role": "vice",
+    "rating": 87,
+    "players": "Martín Silva; Salustiano Candia; Julio Manzur; Herminio Miranda; Alejandro Silva; Richard Ortiz; Juan Manuel Salgueiro; Fredy Bareiro; Nery Bareiro; Wilson Pittoni",
+    "comment": "Atlético Mineiro de Ronaldinho, Victor e Jô fez campanha dramática e forte; Olimpia competitivo."
+  },
+  {
+    "id": "2014-Campeão-San Lorenzo",
+    "year": 2014,
+    "club": "San Lorenzo",
+    "role": "campeão",
+    "rating": 88,
+    "players": "Sebastián Torrico; Julio Buffarini; Walter Kannemann; Santiago Gentiletti; Emmanuel Mas; Juan Mercier; Néstor Ortigoza; Leandro Romagnoli; Ignacio Piatti; Mauro Matos",
+    "comment": "San Lorenzo campeão sólido, mas sem brilho histórico; Nacional-PAR foi boa surpresa."
+  },
+  {
+    "id": "2014-Vice-Nacional-PAR",
+    "year": 2014,
+    "club": "Nacional-PAR",
+    "role": "vice",
+    "rating": 82,
+    "players": "Ignacio Don; Marcos Miers; Raúl Piris; Ramón Coronel; Silvio Torales; Marcos Riveros; Derlis Orué; Julián Benítez; Brian Montenegro; Fredy Bareiro",
+    "comment": "San Lorenzo campeão sólido, mas sem brilho histórico; Nacional-PAR foi boa surpresa."
+  },
+  {
+    "id": "2015-Campeão-River Plate",
+    "year": 2015,
+    "club": "River Plate",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Marcelo Barovero; Gabriel Mercado; Jonatan Maidana; Ramiro Funes Mori; Leonel Vangioni; Leonardo Ponzio; Matías Kranevitter; Carlos Sánchez; Leonardo Pisculichi; Rodrigo Mora",
+    "comment": "River de Gallardo inicia ciclo continental; Tigres tinha investimento e ótimo elenco."
+  },
+  {
+    "id": "2015-Vice-Tigres UANL",
+    "year": 2015,
+    "club": "Tigres UANL",
+    "role": "vice",
+    "rating": 89,
+    "players": "Nahuel Guzmán; Juninho; Hugo Ayala; Jorge Torres Nilo; Israel Jiménez; Guido Pizarro; Rafael Sóbis; Jürgen Damm; André-Pierre Gignac; Damián Álvarez",
+    "comment": "River de Gallardo inicia ciclo continental; Tigres tinha investimento e ótimo elenco."
+  },
+  {
+    "id": "2016-Campeão-Atlético Nacional",
+    "year": 2016,
+    "club": "Atlético Nacional",
+    "role": "campeão",
+    "rating": 96,
+    "players": "Franco Armani; Daniel Bocanegra; Davinson Sánchez; Alexis Henríquez; Farid Díaz; Alexander Mejía; Sebastián Pérez; Macnelly Torres; Marlos Moreno; Miguel Borja",
+    "comment": "Atlético Nacional de 2016 foi dominante e elegante; Independiente del Valle fez campanha heroica."
+  },
+  {
+    "id": "2016-Vice-Independiente del Valle",
+    "year": 2016,
+    "club": "Independiente del Valle",
+    "role": "vice",
+    "rating": 84,
+    "players": "Librado Azcona; Arturo Mina; Luis Caicedo; Mario Rizotto; Junior Sornoza; Jefferson Orejuela; Bryan Cabezas; José Angulo; Julio Angulo; Emiliano Tellechea",
+    "comment": "Atlético Nacional de 2016 foi dominante e elegante; Independiente del Valle fez campanha heroica."
+  },
+  {
+    "id": "2017-Campeão-Grêmio",
+    "year": 2017,
+    "club": "Grêmio",
+    "role": "campeão",
+    "rating": 95,
+    "players": "Marcelo Grohe; Edílson; Pedro Geromel; Walter Kannemann; Bruno Cortez; Arthur; Michel; Maicon; Ramiro; Luan",
+    "comment": "Grêmio de Renato, Luan, Arthur e Grohe foi campeão muito forte; Lanús competitivo."
+  },
+  {
+    "id": "2017-Vice-Lanús",
+    "year": 2017,
+    "club": "Lanús",
+    "role": "vice",
+    "rating": 86,
+    "players": "Esteban Andrada; José Luis Gómez; Marcelo Herrera; Diego Braghieri; Maximiliano Velázquez; Iván Marcone; Román Martínez; Nicolás Pasquini; Lautaro Acosta; José Sand",
+    "comment": "Grêmio de Renato, Luan, Arthur e Grohe foi campeão muito forte; Lanús competitivo."
+  },
+  {
+    "id": "2018-Campeão-River Plate",
+    "year": 2018,
+    "club": "River Plate",
+    "role": "campeão",
+    "rating": 97,
+    "players": "Franco Armani; Gonzalo Montiel; Jonatan Maidana; Javier Pinola; Milton Casco; Leonardo Ponzio; Enzo Pérez; Ignacio Fernández; Exequiel Palacios; Juan Fernando Quintero",
+    "comment": "River x Boca foi finalíssima de altíssimo nível; River teve campanha/título histórico."
+  },
+  {
+    "id": "2018-Vice-Boca Juniors",
+    "year": 2018,
+    "club": "Boca Juniors",
+    "role": "vice",
+    "rating": 94,
+    "players": "Esteban Andrada; Leonardo Jara; Lisandro Magallán; Carlos Izquierdoz; Lucas Olaza; Wilmar Barrios; Nahitan Nández; Pablo Pérez; Sebastián Villa; Darío Benedetto",
+    "comment": "River x Boca foi finalíssima de altíssimo nível; River teve campanha/título histórico."
+  },
+  {
+    "id": "2019-Campeão-Flamengo",
+    "year": 2019,
+    "club": "Flamengo",
+    "role": "campeão",
+    "rating": 99,
+    "players": "Diego Alves; Rafinha; Rodrigo Caio; Pablo Marí; Filipe Luís; Willian Arão; Gerson; Everton Ribeiro; Giorgian de Arrascaeta; Bruno Henrique",
+    "comment": "Flamengo de Jorge Jesus foi elite histórica; River era campeão vigente e fortíssimo."
+  },
+  {
+    "id": "2019-Vice-River Plate",
+    "year": 2019,
+    "club": "River Plate",
+    "role": "vice",
+    "rating": 95,
+    "players": "Franco Armani; Gonzalo Montiel; Lucas Martínez Quarta; Javier Pinola; Milton Casco; Enzo Pérez; Exequiel Palacios; Ignacio Fernández; Nicolás de la Cruz; Rafael Santos Borré",
+    "comment": "Flamengo de Jorge Jesus foi elite histórica; River era campeão vigente e fortíssimo."
+  },
+  {
+    "id": "2020-Campeão-Palmeiras",
+    "year": 2020,
+    "club": "Palmeiras",
+    "role": "campeão",
+    "rating": 89,
+    "players": "Weverton; Gustavo Gómez; Luan; Matías Viña; Danilo; Patrick de Paula; Zé Rafael; Raphael Veiga; Rony; Luiz Adriano",
+    "comment": "Palmeiras campeão em ano atípico e competitivo; Santos jovem e perigoso."
+  },
+  {
+    "id": "2020-Vice-Santos",
+    "year": 2020,
+    "club": "Santos",
+    "role": "vice",
+    "rating": 85,
+    "players": "João Paulo; Pará; Lucas Veríssimo; Luan Peres; Felipe Jonatan; Alison; Diego Pituca; Carlos Sánchez; Yeferson Soteldo; Marinho",
+    "comment": "Palmeiras campeão em ano atípico e competitivo; Santos jovem e perigoso."
+  },
+  {
+    "id": "2021-Campeão-Palmeiras",
+    "year": 2021,
+    "club": "Palmeiras",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Weverton; Gustavo Gómez; Luan; Marcos Rocha; Joaquín Piquerez; Danilo; Zé Rafael; Raphael Veiga; Dudu; Rony",
+    "comment": "Palmeiras campeão com enorme competência; Flamengo tinha elenco superior no papel."
+  },
+  {
+    "id": "2021-Vice-Flamengo",
+    "year": 2021,
+    "club": "Flamengo",
+    "role": "vice",
+    "rating": 95,
+    "players": "Diego Alves; Mauricio Isla; David Luiz; Rodrigo Caio; Filipe Luís; Willian Arão; Andreas Pereira; Everton Ribeiro; Arrascaeta; Bruno Henrique",
+    "comment": "Palmeiras campeão com enorme competência; Flamengo tinha elenco superior no papel."
+  },
+  {
+    "id": "2022-Campeão-Flamengo",
+    "year": 2022,
+    "club": "Flamengo",
+    "role": "campeão",
+    "rating": 97,
+    "players": "Santos; Rodinei; David Luiz; Léo Pereira; Filipe Luís; João Gomes; Thiago Maia; Everton Ribeiro; Giorgian de Arrascaeta; Pedro",
+    "comment": "Flamengo de 2022 teve campanha quase impecável e elenco muito forte; Athletico foi sólido."
+  },
+  {
+    "id": "2022-Vice-Athletico Paranaense",
+    "year": 2022,
+    "club": "Athletico Paranaense",
+    "role": "vice",
+    "rating": 88,
+    "players": "Bento; Khellven; Thiago Heleno; Pedro Henrique; Abner; Fernandinho; Erick; Hugo Moura; David Terans; Pablo",
+    "comment": "Flamengo de 2022 teve campanha quase impecável e elenco muito forte; Athletico foi sólido."
+  },
+  {
+    "id": "2023-Campeão-Fluminense",
+    "year": 2023,
+    "club": "Fluminense",
+    "role": "campeão",
+    "rating": 93,
+    "players": "Fábio; Samuel Xavier; Nino; Felipe Melo; Marcelo; André; Martinelli; Ganso; Jhon Arias; Keno",
+    "comment": "Fluminense de Diniz, Cano e Arias teve campanha marcante; Boca foi copeiro, mas menos brilhante."
+  },
+  {
+    "id": "2023-Vice-Boca Juniors",
+    "year": 2023,
+    "club": "Boca Juniors",
+    "role": "vice",
+    "rating": 87,
+    "players": "Sergio Romero; Luis Advíncula; Nicolás Figal; Nicolás Valentini; Frank Fabra; Pol Fernández; Equi Fernández; Valentín Barco; Cristian Medina; Miguel Merentiel",
+    "comment": "Fluminense de Diniz, Cano e Arias teve campanha marcante; Boca foi copeiro, mas menos brilhante."
+  },
+  {
+    "id": "2024-Campeão-Botafogo",
+    "year": 2024,
+    "club": "Botafogo",
+    "role": "campeão",
+    "rating": 96,
+    "players": "John; Vitinho; Adryelson; Alexander Barboza; Alex Telles; Marlon Freitas; Gregore; Thiago Almada; Jefferson Savarino; Luiz Henrique",
+    "comment": "Botafogo campeão com elenco e campanha de elite; Atlético Mineiro tinha nomes fortes."
+  },
+  {
+    "id": "2024-Vice-Atlético Mineiro",
+    "year": 2024,
+    "club": "Atlético Mineiro",
+    "role": "vice",
+    "rating": 90,
+    "players": "Everson; Lyanco; Rodrigo Battaglia; Junior Alonso; Guilherme Arana; Fausto Vera; Alan Franco; Gustavo Scarpa; Hulk; Paulinho",
+    "comment": "Botafogo campeão com elenco e campanha de elite; Atlético Mineiro tinha nomes fortes."
+  },
+  {
+    "id": "2025-Campeão-Flamengo",
+    "year": 2025,
+    "club": "Flamengo",
+    "role": "campeão",
+    "rating": 97,
+    "players": "Agustín Rossi; Guillermo Varela; Léo Pereira; Danilo; Alex Sandro; Erick Pulgar; Jorginho; Giorgian de Arrascaeta; Jorge Carrascal; Samuel Lino",
+    "comment": "Flamengo campeão com elenco de altíssimo nível; Palmeiras manteve padrão de elite continental."
+  },
+  {
+    "id": "2025-Vice-Palmeiras",
+    "year": 2025,
+    "club": "Palmeiras",
+    "role": "vice",
+    "rating": 93,
+    "players": "Carlos Miguel; Bruno Fuchs; Gustavo Gómez; Murilo; Khellven; Joaquín Piquerez; Andreas Pereira; Raphael Veiga; Allan Elias; Vitor Roque",
+    "comment": "Flamengo campeão com elenco de altíssimo nível; Palmeiras manteve padrão de elite continental."
+  }
+]
