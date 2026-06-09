@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>LaBestia, Em Busca da Glória Eterna</title>
+<meta name="description" content="Monte a Besta e tente levar o Cruzeiro ao tri da Libertadores. Draft histórico, mata-mata, pênaltis e drama continental." />
+<link rel="canonical" href="https://labestia.xyz/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="LaBestia" />
+<meta property="og:title" content="LaBestia, Em Busca da Glória Eterna" />
+<meta property="og:description" content="Monte a Besta e tente levar o Cruzeiro ao tri da Libertadores." />
+<meta property="og:url" content="https://labestia.xyz/" />
+<meta property="og:image" content="https://labestia.xyz/og-labestia.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="LaBestia, Em Busca da Glória Eterna" />
+<meta name="twitter:description" content="Monte a Besta e tente levar o Cruzeiro ao tri da Libertadores." />
+<meta name="twitter:image" content="https://labestia.xyz/og-labestia.png" />
+
+<link rel="stylesheet" href="assets/labestia.css" />
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <div class="brand"><div class="mark">LB</div><div><div class="word">La<br>Bestia</div><div class="tag">EM BUSCA DA GLÓRIA ETERNA <span class="beta-badge">Versão Beta</span></div></div></div>
+    <div class="center-status" id="statusText">Draft de risco · cada escolha tem preço</div>
+    <div class="top-actions compact-actions">
+      <select id="formationSelect" onchange="setFormation(this.value)" title="Escolha o esquema tático"></select>
+      <button class="btn-primary" id="streamBtn" onclick="openTournament()" disabled>Avançar</button>
+      <details class="top-menu"><summary>Menu</summary><div class="menu-pop"><button id="continueBtn" onclick="continueSavedCampaign()" style="display:none">Continuar</button><button onclick="resetGame()">Recomeçar</button><button id="liteBtn" onclick="toggleLiteMode()">Modo leve</button><button onclick="openLegacy()">Legado</button><button onclick="shareGame()">Compartilhar</button></div></details>
+    </div>
+  </header>
+  <main class="layout">
+    <aside class="left">
+      <div class="draw-card"><div class="label" id="drawLabel">Rodada do draft</div><div class="draw-title"><div class="country" id="drawPosition">1/11</div><div class="cup" id="drawDecade">5 cartas</div></div></div>
+      <div class="need-box"><div class="micro">Posições em aberto</div><div class="need-tags" id="needTags"></div></div>
+      <div class="micro">Sorteio de oportunidades</div>
+      <div class="roll-strip" id="rollStrip"><div><div class="roll-main" id="rollMain">Role</div><div class="roll-sub" id="rollSub">cinco cartas, uma escolha</div></div></div>
+      <div class="btn-row"><button class="btn-primary" id="rollBtn" onclick="rollDraft()">Sortear</button><button id="rerollBtn" onclick="rerollDraft()">Trocar mão · <span id="rerolls">1</span></button></div>
+      <div class="reroll-warning" id="rerollWarning">Você tem apenas <b>1 opção para trocar a mão</b> durante o draft. Use com sabedoria.</div>
+      <div class="draft-note">Você escolhe <b>1 carta</b>. As outras normalmente somem. Escolha craque, necessidade ou segurança.</div>
+      <div class="selected-tray" id="selectedTray"></div>
+      <p class="hint">Toque numa carta e depois numa posição, ou arraste. Jogadores já escalados podem ser arrastados para reorganizar.</p>
+      <h3>Escolha um jogador</h3><div class="option-list" id="options"></div>
+    </aside>
+    <section class="pitch-wrap"><div class="pitch" id="pitch"><div class="field-watermark" aria-hidden="true"></div><div class="half"></div><div class="circle"></div><div class="box top"></div><div class="box bottom"></div><div class="smallbox top"></div><div class="smallbox bottom"></div><div class="spot top"></div><div class="spot center"></div><div class="spot bottom"></div></div></section>
+    <aside class="right"><h3>Box score · <span id="boxScore">0/11</span></h3><div class="dash"></div><div class="tabs"><div class="tab">Ataque</div><div class="tab def">Defesa</div></div><div class="micro">Overall</div><div class="big-score" id="overall">—</div><div class="micro">Ataque</div><div class="meter"><span id="atkMeter"></span></div><div class="micro">Defesa</div><div class="meter def"><span id="defMeter"></span></div><div class="box-list" id="boxList"></div><div id="shapeWarning"></div><div class="summary-actions"><button class="btn-primary" id="playBtn" onclick="openTournament()" disabled>Disputar Libertadores</button></div></aside>
+  </main>
+  <section class="ph-support" aria-label="Páginas Heroicas">
+    <div class="ph-support-logo"><div class="offer">Jogo oferecido por</div><img src="assets/image-1-30cba195dcf0.png" alt="Páginas Heroicas"></div>
+    <div class="ph-support-copy"><b>LaBestia é 100% gratuito.</b><p>Se puder ajudar seguindo nossa página no X, será top: <a href="https://x.com/paginascruzeiro" target="_blank" rel="noopener">@paginascruzeiro</a>.</p></div>
+    <div class="support-actions"><a class="follow-btn btn-primary" href="https://x.com/paginascruzeiro" target="_blank" rel="noopener">Seguir no X</a><a class="feedback-btn" href="https://x.com/intent/tweet?text=Feedback%20LaBestia%3A%20" target="_blank" rel="noopener">Enviar feedback</a></div>
+  </section>
+</div>
+<footer class="site-footer">© 2026 · Produzido por <a href="https://x.com/paginascruzeiro" target="_blank" rel="noopener">@paginascruzeiro</a> · LaBestia, em busca da Glória Eterna.</footer>
+<div class="start-overlay" id="startOverlay"><div class="start-panel"><div class="start-head"><div><div class="start-kicker">A América Cobra</div><h1>LaBestia</h1><h2>Monte a Besta. Sobreviva à América.</h2><span class="beta-badge">Versão Beta</span></div><div class="home-actions"><button class="btn-primary" onclick="startGame()">Jogar agora</button><button id="homeContinueBtn" onclick="continueSavedCampaign()" style="display:none">Continuar campanha</button><button onclick="openLegacy()">Ver legado</button></div></div><div class="start-content"><div><p>Um draft cruel com versões históricas do Cruzeiro. Escolha uma carta por rodada, monte a equipa e encare a Libertadores. O jogo agora separa o essencial dos detalhes: draft, revisão, campanha e legado.</p><div class="legacy-home" id="legacyHome"></div><div class="start-rules"><div class="start-rule"><b>1. Formação</b>São 15 esquemas táticos, adaptados às posições do jogo.</div><div class="start-rule"><b>2. Revisão</b>Antes da Libertadores, veja titulares, identidade e encaixe por abas.</div><div class="start-rule"><b>3. Legado</b>Campeonatos ficam gravados: Tri, Tetra, Penta e por aí vai.</div></div><div class="micro">Escolha a formação</div><div class="formation-grid" id="startFormations"></div></div><div class="formation-preview-card"><div class="micro">Prévia tática</div><div id="formationPreview"></div><p class="small"><b>A América Cobra:</b> time torto pode ter craque e ainda assim ruir. Encaixe, características e entrosamento importam.</p></div></div></div></div>
+<div class="modal" id="tournamentModal"><div class="modal-card"><div class="modal-head"><div><h2>Libertadores</h2><p id="modalSub">Escolha o modo da campanha</p></div><button onclick="closeTournament()">Fechar</button></div><div id="tournamentContent"></div></div></div><div class="toast" id="toast"></div>
+<script src="assets/labestia.js"></script>
+</body>
+</html>
